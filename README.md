@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnasteishaBond
-- 👀 I’m interested in UX design 
+- 👀 I’m UX designer 
 - 🌱 I’m currently learning JS
 
 <!---
